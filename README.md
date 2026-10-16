@@ -1,2 +1,1 @@
-# git-practice1
-My Git and GitHub practical assignment
+My first Git and GitHub project
